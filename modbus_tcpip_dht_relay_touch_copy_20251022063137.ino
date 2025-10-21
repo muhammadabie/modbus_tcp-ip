@@ -17,8 +17,8 @@
 #define TOUCH_ADDRESS 104  // register baru untuk touch sensor
 
 // ================== Konfigurasi WiFi ==================
-const char* ssid = "Ceponnn2";
-const char* pass = "cepon555";
+const char* ssid = "";
+const char* pass = "";
 
 IPAddress local_IP(192, 168, 144, 113);
 IPAddress gateway(192, 168, 144, 80);
